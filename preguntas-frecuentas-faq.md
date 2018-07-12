@@ -1,0 +1,2 @@
+# Preguntas frecuentas \(FAQ\)
+
