@@ -1,4 +1,4 @@
-# ​Introducción Workbench, BOX y Devicehub
+# ​Introducción Workbench y BOX
 
 ### Workbench
 
@@ -14,25 +14,15 @@ Todos estos datos se guardan en una base de datos online, nosotros si queremos v
 
 Donde tendremos que introducir nuestro correo y la contraseña.
 
-[**Opciones del Workbench**](instalacion-y-configuracion/opciones-del-workbench.md)
+[**Opciones del Workbench**](opciones-del-workbench.md)
 
-![](.gitbook/assets/deviceinventory-1.png)
+![](../../.gitbook/assets/deviceinventory-1.png)
 
 ### **BOX**
 
 La Box es un mini pc Intel Nuc modelo NUC6CAYH, con un procesador Intel Celeron J3455 de 1,50 Ghz con 8 gigas de ram, con conexión a wifi, 2 puertos usb 2.0, 4 puertos usb 3.0, 1 puerto HDMI, 1 puerto VGA, 1 puerto ethernet lan, voltaje de salida de adaptador ac: 12-19 y combo de salida de auriculares / micrófono.
 
 La Box lleva un sistema operativo linux, con el programa Workbench server ya listo para usarse. En el escritorio de la box nos encontraremos un acceso directo a el devicetag.io donde podremos configurar a nuestro gusto el Workbench.
-
-### Devicehub
-
-//Intro devicehub, inventario para gestionar los dispositivos
-
-### **eReuse.org App \(Android\)**
-
-La función de la aplicación móvil es la de guardar, modificar o eliminar la información de los dispositivos que hayan pasado el Workbench.
-
-[¿Como usar la aplicación móvil?](registrar-dispositivos-con-workbench/configuracion-ereuse.org-app.md)
 
 [Tutorial DeviceTag.io Box with eReuse.org Workbench  
   

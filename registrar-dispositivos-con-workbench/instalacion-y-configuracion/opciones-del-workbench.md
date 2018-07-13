@@ -4,13 +4,13 @@
 
 1. La carpeta Workbench, se suele encontrar en /**home/{usuario}/workbench**
 
-![](../.gitbook/assets/carpetas-de-workbench.png)
+![](../../.gitbook/assets/carpetas-de-workbench.png)
 
  2. Dentro del directorio Workbench, hay 3 capetas visibles y una oculta que son:
 
-![](../.gitbook/assets/carpetas-de-workbench2.png)
+![](../../.gitbook/assets/carpetas-de-workbench2.png)
 
-**Failed snapshots:** Es donde se guardan los archivos .json de los ordenadores que han fallado a la hora de enlazarlos. [Como subir dispositivo manualmente](../registrar-dispositivos-con-workbench/enlazar-dispositivo.md)
+**Failed snapshots:** Es donde se guardan los archivos .json de los ordenadores que han fallado a la hora de enlazarlos. [Como subir dispositivo manualmente](../enlazar-dispositivo.md)
 
 **Images:** En esta carpeta se encuentran las imágenes .fsa.  [¿Que es una FSA?](configuracion-avanzada/guia-creacion-imagenes-fsa.md)
 

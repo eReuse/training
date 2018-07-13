@@ -1,2 +1,0 @@
-# Instalación y configuración
-

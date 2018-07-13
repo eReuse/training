@@ -20,5 +20,5 @@ Una vez dentro encontraremos las siguientes opciones:
 * Elegiremos si queremos o no que se testee el disco duro. Podremos optar por no hacer el test, que solo lo haga en una parte para comprobar su estado o que lo analice a fondo.
 * Pasos de Borrado.
 * Escogeremos cuantos pases de borrado queremos. Con 1 es suficiente pero con 2 aseguramos una mejor limpieza.
-* Instalar el S.O. Ponemos el nombre sin Los ficheros que debemos tocar son los siguientes: la carpeta images para meter las imágenes .fsa que queremos instalar. [¿Que es una FSA?](../instalacion-y-configuracion/configuracion-avanzada/guia-creacion-imagenes-fsa.md) En este apartado elegiremos el sistema operativo que queramos instalar. Dichos sistemas operativos deberán estar en .fsa y cuando lo escojamos **ES IMPORTANTE BORRAR EL .FSA DEL NOMBRE** para que funcione como muestra la imagen anterior.
+* Instalar el S.O. Ponemos el nombre sin Los ficheros que debemos tocar son los siguientes: la carpeta images para meter las imágenes .fsa que queremos instalar. [¿Que es una FSA?](instalacion-y-configuracion/configuracion-avanzada/guia-creacion-imagenes-fsa.md) En este apartado elegiremos el sistema operativo que queramos instalar. Dichos sistemas operativos deberán estar en .fsa y cuando lo escojamos **ES IMPORTANTE BORRAR EL .FSA DEL NOMBRE** para que funcione como muestra la imagen anterior.
 

@@ -17,7 +17,7 @@ description: >-
 7. Un Smartphone Android \([eReuse.org](http://eReuse.org) APP\). Su uso es para registrar dispositivos que no arrancan o no son compatibles con el Workbench aún.
 8. Por ultimo cosas básicas como una pantalla \(monitor\), un teclado y ratón tanto para usar la BOX como para acceder a al BIOS de los equipos para cambiar el arranque por red \(PXE\).
 
-![](../.gitbook/assets/tipologia-de-red-ereruse.png)
+![](../../.gitbook/assets/tipologia-de-red-ereruse.png)
 
 ###                                            Tabla de materiales {#tabla-de-materiales}
 
