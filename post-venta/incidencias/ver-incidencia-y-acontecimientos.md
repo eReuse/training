@@ -2,5 +2,5 @@
 
 ## Ver incidencias y acontecimientos de un dispositivo
 
-![](../.gitbook/assets/ver-eventos.png)
+![](../../.gitbook/assets/ver-eventos.png)
 
