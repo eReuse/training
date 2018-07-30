@@ -28,7 +28,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-05.png)
 
- 6.Escogemos el tipo de archivo **VDI**
+ 6.Escogemos el tipo de archivo **VDI.**
 
 ![](../../../.gitbook/assets/fsa-06.png)
 
@@ -64,7 +64,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ## **Crear las fsa**
 
-1. Para crear las fsa usaremos el programa [System Rescue](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/5.2.1/systemrescuecd-x86-5.2.1.iso/download).
+1. Para crear las fsa usaremos el programa [System Rescue](http://www.system-rescue-cd.org/Download/).
 
 ![](../../../.gitbook/assets/fsa-14.png)
 
