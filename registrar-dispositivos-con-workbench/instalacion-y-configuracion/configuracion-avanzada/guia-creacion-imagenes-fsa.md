@@ -94,7 +94,9 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-19.png)
 
- 10. Una vez seccionado el teclado, nos cargara un terminal. En ese terminal pondremos el siguiente comando: fdisk -l \(Nos permite visualizar los discos que tenemos en el sistema\)
+ 10. Una vez seccionado el teclado, nos cargara un terminal. En ese terminal pondremos el siguiente comando: 
+
+_fdisk -l_ \(Nos permite visualizar los discos que tenemos en el sistema\)
 
 ![](../../../.gitbook/assets/fsa-discos.png)
 
