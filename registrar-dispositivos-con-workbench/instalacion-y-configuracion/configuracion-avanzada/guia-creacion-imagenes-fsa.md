@@ -62,7 +62,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 5. Una vez la instalación haya finalizado, actualizamos la maquina.
 
-## **Crear las fsa**
+## **Crear la fsa**
 
 1. Para crear las fsa usaremos el programa [System Rescue](http://www.system-rescue-cd.org/Download/).
 
@@ -98,7 +98,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-discos.png)
 
- 11. Cremaos la carpeta usb a /media/
+ 11. Creamos la carpeta usb a /media/
 
 ![](../../../.gitbook/assets/fsa-21.png)
 
@@ -106,11 +106,15 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-22.png)
 
- 13. Ahora tocaría crear la fsa, para eso pondremos el comando: fsarchiver savefs -z 9 -j 2\(opcional\) /media/usb/nombredelaFSA.fsa /dev/sda1
+ 13. Ahora tocaría crear la fsa, para eso pondremos el comando: 
+
+_fsarchiver savefs -z 9 -j 2 /media/usb/nombredelaFSA.fsa /dev/sda1_
 
 ![](../../../.gitbook/assets/fsa-23.png)
 
- Este proceso suele ser bastante lento. 14. Cuando el programa ha acabado de hacer la fsa nos saldrá lo siguiente.
+ Este proceso suele ser bastante lento. 
+
+14. Cuando el programa ha acabado de hacer la fsa nos saldrá lo siguiente.
 
 ![](../../../.gitbook/assets/fsa-24.png)
 
@@ -126,19 +130,19 @@ Quitar el cd o escoger la opción de **boot from first hard disk**
 
 18. Una vez dentro del sistema operativo, montamos el disco duro de fsa. 
 
-19.Para montar el disco vamos al programa discos.
+19. Para montar el disco vamos al programa discos.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p1.png)
 
-20.Una vez dentro del programa discos, buscamos el disco donde hemos guardado la fsa.
+20. Una vez dentro del programa discos, buscamos el disco donde hemos guardado la fsa.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p3.png)
 
-21.Selecionamos el disco y le damos al botón de montar disco.
+21. Selecionamos el disco y le damos al botón de montar disco.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p4.png)
 
-22.Una vez lo tenemos montado, vamos al disco duro y pasamos la fsa a un usb.
+22. Una vez lo tenemos montado, vamos al disco duro y pasamos la fsa a un usb.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p5.png)
 
