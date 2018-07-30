@@ -62,7 +62,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 5. Una vez la instalación haya finalizado, actualizamos la maquina.
 
-**Crear las fsa**
+## **Crear las fsa**
 
 1. Para crear las fsa usaremos el programa [System Rescue](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/5.2.1/systemrescuecd-x86-5.2.1.iso/download).
 
@@ -94,7 +94,7 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-19.png)
 
- 10. Una vez seccionado el teclado, nos cargara un terminal. En ese terminal pondremos el siguiente comando: fdisk -l\(Nos permite visualizar los discos que tenemos en el sistema\)
+ 10. Una vez seccionado el teclado, nos cargara un terminal. En ese terminal pondremos el siguiente comando: fdisk -l \(Nos permite visualizar los discos que tenemos en el sistema\)
 
 ![](../../../.gitbook/assets/fsa-discos.png)
 
@@ -118,15 +118,15 @@ Son sistemas operativos linux listos para usarse, lo que significa que casi no l
 
 ![](../../../.gitbook/assets/fsa-25.png)
 
- 16. Una vez hemos desmontado el disco duro, reiniciamos la maquina con reboot 
+ 16. Una vez hemos desmontado el disco duro, reiniciamos la maquina con el comando _reboot._
 
 17. Una vez hemos reiniciado la maquina nos volverá aparecer el menú de antes para iniciar el sistema operativo podemos hacer dos cosas:
 
-Quitar el cd o escoger la opción de **boot form first hard disk** 
+Quitar el cd o escoger la opción de **boot from first hard disk** 
 
 18. Una vez dentro del sistema operativo, montamos el disco duro de fsa. 
 
-19.Para monatr el disco vamos al programa discos.
+19.Para montar el disco vamos al programa discos.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p1.png)
 
@@ -134,7 +134,7 @@ Quitar el cd o escoger la opción de **boot form first hard disk**
 
 ![](../../../.gitbook/assets/gestor-de-discos-p3.png)
 
-21.Selecionamos el disco y le damos al boton de montar disco.
+21.Selecionamos el disco y le damos al botón de montar disco.
 
 ![](../../../.gitbook/assets/gestor-de-discos-p4.png)
 
