@@ -9,13 +9,13 @@ description: >-
 ## BOX \(Workbench Server\)
 
 1. ​[Ordenador Mini PC](https://www.amazon.es/gp/product/B01MSZTD8N/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)​
-2. ​[RAM](https://www.amazon.es/gp/product/B00CQ35GYE/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1).
-3. ​[Disco duro interno](https://www.amazon.es/gp/product/B01N6JQS8C/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). Cualquier disco duro de portátil con más de 60GB serviría. Aunque recomendamos adquirir una SSD como la que os he puesto de ejemplo para una mejor velocidad del sistema en general y así también una mejor experiencia de uso.
+2. ​[RAM](https://www.amazon.es/gp/product/B00CQ35GYE/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). El mínimo aceptable son 4 GB, aunque recomendamos 8 GB.
+3. ​[Disco duro interno](https://www.amazon.es/gp/product/B01N6JQS8C/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1). Cualquier disco duro interno de portátil con más de 60GB serviría. Aunque recomendamos adquirir una SSD como la que os he puesto de ejemplo para una mejor velocidad del sistema en general y así también una mejor experiencia de uso.
 4. Impresora de etiquetas. Nosotros usamos y damos soporte a la [Brother QL-700](https://www.amazon.es/gp/product/B0083WHWGM/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1). Con la cinta/papel [DK2113](https://www.brother-usa.com/products/DK2113).
 5. ​[Switch](https://www.amazon.es/gp/product/B00CUG8ESM/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1). Nosotros usamos este [Switch](https://www.amazon.es/gp/product/B00CUG8ESM/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1) en concreto que nos funciona muy bien. \(Recomendado mínimo 1 puerto de GB\) En caso de tener poca cantidad de dispositivos a registrar se puede usar un [Switch](https://www.amazon.es/gp/product/B000BCC0LO/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1) con menos puertos.
 6. Varios cables de Ethernet \(mínimo 1 que sea Cat5e o superior\). Con tener el mismo numero de cables que puertos tenga el switch que uséis es suficiente.
-7. Un Smartphone Android \([eReuse.org](http://eReuse.org) APP\). Su uso es para registrar dispositivos que no arrancan o no son compatibles con el Workbench aún.
-8. Por ultimo cosas básicas como una pantalla \(monitor\), un teclado y ratón tanto para usar la BOX como para acceder a al BIOS de los equipos para cambiar el arranque por red \(PXE\).
+7. Un móvil Android \([eReuse.org](http://eReuse.org) APP\). Su uso es para registrar dispositivos que no arrancan o no son compatibles con el Workbench aún.
+8. Por ultimo cosas básicas como una pantalla \(monitor\), un teclado y ratón tanto para usar la BOX como para acceder a al BIOS de los equipos para cambiar el arranque por red \(PXE\). También una memoria usb o pendrive \(no genérico\).
 
 ![](../../.gitbook/assets/tipologia-de-red-ereruse.png)
 
