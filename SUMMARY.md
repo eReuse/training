@@ -31,6 +31,7 @@
   * [Event dispose](registrar-dispositivos-con-workbench/event-dispose.md)
   * [Organizar dispositivos](registrar-dispositivos-con-workbench/organizar-dispositivos.md)
   * [Validar los dispositivos recibidos con el albarán](registrar-dispositivos-con-workbench/validar-los-dispositivos-recibidos-con-el-albaran.md)
+  * [Albarán de conformidad](registrar-dispositivos-con-workbench/albaran-de-conformidad.md)
 * [Almacenaje](almacenaje.md)
 * [Venta](venta/README.md)
   * [Intercambiar dispositivos con otras entidades eReuse](venta/intercambiar-dispositivos-con-otras-entidades-ereuse/README.md)
