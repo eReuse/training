@@ -19,7 +19,7 @@ description: >-
 
 ![](../../.gitbook/assets/tipologia-de-red-ereruse.png)
 
-###                                            Tabla de materiales {#tabla-de-materiales}
+###                                            Tabla de materiales <a id="tabla-de-materiales"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L9oiBnMYZau0MGw4uHG%2F-L9oiHQuPT4H75JTNHxQ%2F-L9oiSQVzm-weOJCaR6Z%2FRequisitosBox.png?generation=1523450515449232&alt=media)
 

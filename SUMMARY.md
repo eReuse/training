@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Preguntas, sugerencias y comentarios](README.md)
 * [Interacciones con el donante](interacciones-con-el-donante/README.md)
   * [Solicitar una recogida](interacciones-con-el-donante/solicitar-una-recogida.md)
   * [Convenio con el donante](interacciones-con-el-donante/convenio-con-el-donante.md)
